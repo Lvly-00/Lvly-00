@@ -1,12 +1,12 @@
-<!-- Gothic Header -->
+<!--  Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3b0a0a,100:5e0f0f&height=200&section=header&text=༺%20Lvly%20༻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=In%20Darkness%2C%20I%20Create&descAlignY=60&descAlign=50" />
 </p>
 
-<!-- Gothic Motto -->
+<!--  Motto -->
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
-    <img src="https://typograssy.deno.dev/api?text=Effort%20never%20betrays%20you.&l0=000000&l1=5e0f0f&l2=8a2d3b&l3=4a0e23&l4=1a1a1a&bg=000000&speed=180" alt="Motto">
+<img src="https://typograssy.deno.dev/api?text=Effort%20never%20betrays%20you.&l0=ffffff&l1=5e0f0f&l2=8a2d3b&l3=4a0e23&l4=1a1a1a&bg=000000&speed=180" alt="Motto">
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## ⚒️ Dark Arsenal  
+## 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,csharp,cpp,css,godot,html,js,laravel,mysql,nextjs,nodejs,numpy,pandas,python,react,ts&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=ae,blender,figma,gimp,git,github,vscode&theme=dark" />
@@ -31,7 +31,7 @@
 
 ---
 
-## 📜 Stats of the Night  
+## 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lvly-00&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvly-00&layout=compact&theme=dracula&hide_border=true" height="150" />
@@ -53,14 +53,14 @@
 
 ---
 
-## 🌙 Activity Under the Moonlight  
+## 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lvly-00&theme=redical&bg_color=000000&color=8a2d3b&line=5e0f0f&point=fbdb93&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 The Eternal Serpent  
+##  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lvly-00/Lvly-00/output/snake.svg" />
 </p>
