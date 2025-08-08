@@ -66,7 +66,7 @@
   <img src="https://raw.githubusercontent.com/Lvly-00/Lvly-00/output/snake.svg" />
 </p>
 
-<!-- Gothic Footer -->
+<!--  Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e0f0f,100:0d0d0d&height=100&section=footer" />
 </p>
