@@ -14,8 +14,7 @@
 ---
 
 ## 🦇 About Me  
-> “In shadows, I code. In silence, I build.  
-> Every keystroke, a verse in my digital grimoire.”
+> “In shadows, I code. In silence, I build."
 
 - 🎭 **Full-Stack Developer** — Coding Laravel & React.  
 - 🕯️ **Digital Artisan** — creating visuals in Blender, AE, and Figma.  
