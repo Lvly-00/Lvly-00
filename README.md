@@ -1,7 +1,8 @@
 <h1 align="center">---Lvly---</h1>
 
+<div align="center">
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Effort%20never%20betrays%20you.&l0=000000&l1=fbdb93&l2=be5b50&l3=8a2d3b&l4=641b2e&bg=000000&speed=211"></a>
-
+</div>
 
 ###
 
@@ -75,11 +76,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lvly-00/Lvly-00/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lvly-00/Lvly-00/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lvly-00/Lvly-00/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Lvly-00/Lvly-00/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
