@@ -17,7 +17,7 @@
 > “In shadows, I code. In silence, I build.  
 > Every keystroke, a verse in my digital grimoire.”
 
-- 🎭 **Full-Stack Sorcerer** — weaving web spells with Laravel & React.  
+- 🎭 **Full-Stack Developer** — Coding Laravel & React.  
 - 🕯️ **Digital Artisan** — creating visuals in Blender, AE, and Figma.  
 - 🩸 Fueled by coffee, music, and the thrill of problem-solving.  
 - 🌑 Motto: *"Code like midnight — silent, powerful, inevitable."*
@@ -34,9 +34,9 @@
 
 ## 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lvly-00&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvly-00&layout=compact&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Lvly-00&theme=dracula&no-frame=true&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lvly-00&show_icons=true&theme=kacho_ga&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvly-00&layout=compact&theme=kacho_ga&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lvly-00&theme=kacho_ga&no-frame=true&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
 </div>
 
 ---
