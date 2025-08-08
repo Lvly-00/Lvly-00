@@ -13,15 +13,6 @@
 
 ---
 
-## 🦇 About Me  
-> “In shadows, I code. In silence, I build."
-
-- 🎭 **Full-Stack Developer** — Coding Laravel & React.  
-- 🕯️ **Digital Artisan** — creating visuals in Blender, AE, and Figma.  
-- 🩸 Fueled by coffee, music, and the thrill of problem-solving.  
-- 🌑 Motto: *"Code like midnight — silent, powerful, inevitable."*
-
----
 
 ## 
 <p align="center">
