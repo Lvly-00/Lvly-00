@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top" >
+<td width="60%" valign="top"  >
 
 ## 🖤 About Me  
 
@@ -23,24 +23,6 @@ I’m a **Versatile Frontend & Backend Developer, and Animator** with a passion 
 I specialize in building **responsive web and mobile applications** with **React**, **React Native**, and **Tailwind CSS** on the frontend, and developing robust **backend systems** using **Laravel**.  
 
 Beyond coding, I craft immersive **2D animations** and **video effects**, combining **artistic storytelling** to deliver engaging digital experiences.  
-
----
-
-### 💼 Experience  
-
-**Frontend Developer — Uniform Detection Website** *(May 2025 – Present)*  
-- Commissioned to design **UI/UX** for a thesis system using **Figma**.  
-- Developed the frontend with **React**, **Mantine UI**, and **Tailwind CSS**.  
-
-**Frontend Developer — Ride Companion** *(May – July 2025)*  
-- Built the frontend of a **Ride Companion** app for an international client using **React Native** and **Tailwind CSS**.  
-
-**Assistant Video Editor & Animator — NXCUS Production** *(2024 – 2025)*  
-- Crafted **visual effects** and animated elements to enhance video projects.  
-- Produced dynamic, engaging openings tailored to project needs.  
-
-**Animator — Vector Tech Capital LLC** *(March – July 2025)*  
-- Designed and animated engaging short **2D videos**, combining storytelling with technical expertise to captivate audiences.  
 
 </td>
 <td width="40%" valign="top">
