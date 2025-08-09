@@ -24,6 +24,11 @@ I specialize in building **responsive web and mobile applications** with **React
 
 Beyond coding, I craft immersive **2D animations** and **video effects**, combining **artistic storytelling** to deliver engaging digital experiences.  
 
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-4a0e23?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-5e0f0f?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-3b0a0a?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</p>
 </td>
 <td width="40%" valign="top">
 
@@ -56,34 +61,21 @@ Beyond coding, I craft immersive **2D animations** and **video effects**, combin
 
 ---
 
-## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lvly-00&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&icon_color=5e0f0f&text_color=ffffff" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvly-00&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&text_color=ffffff" height="160"/>
 </div>
 
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-4a0e23?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-5e0f0f?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-2c2f33?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitch-4a0e23?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-3b0a0a?style=for-the-badge&logo=facebook&logoColor=white"></a>
-</p>
 
 ---
 
-## 📈 Activity Graph
+<!--  ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lvly-00&theme=redical&bg_color=000000&color=8a2d3b&line=5e0f0f&point=fbdb93&hide_border=true" />
 </p>
+-->
 
----
 
-## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lvly-00/Lvly-00/output/snake.svg" />
 </p>
