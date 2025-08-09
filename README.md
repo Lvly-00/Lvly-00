@@ -26,7 +26,6 @@ Beyond coding, I craft immersive **2D animations** and **video effects**, combin
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-4a0e23?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-5e0f0f?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Facebook-3b0a0a?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 </td>
