@@ -67,11 +67,11 @@ Beyond coding, I craft immersive **2D animations** and **video effects**, combin
 
 ---
 
-<!--  ## 📈 Activity Graph
+ ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lvly-00&theme=redical&bg_color=000000&color=8a2d3b&line=5e0f0f&point=fbdb93&hide_border=true" />
 </p>
--->
+
 
 
 <p align="center">
