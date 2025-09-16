@@ -59,6 +59,10 @@ Beyond coding, I craft immersive **2D animations** and **video effects**, combin
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lvly-00&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&icon_color=5e0f0f&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvly-00&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&text_color=ffffff" height="160"/>
+</div>
 
 
 ---
