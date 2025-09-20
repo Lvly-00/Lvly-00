@@ -6,9 +6,20 @@
 <!-- MOTTO -->
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
-    <img src="https://typograssy.deno.dev/api?text=Effort%20never%20betrays%20you.&l0=000000&l1=5e0f0f&l2=8a2d3b&l3=4a0e23&l4=ffffff&bg=000000&speed=180" alt="Motto">
+    <picture>
+      <source 
+        srcset="https://typograssy.deno.dev/api?text=Effort%20never%20betrays%20you.&l0=ffffff&l1=cccccc&l2=999999&l3=666666&l4=000000&bg=ffffff&speed=180" 
+        media="(prefers-color-scheme: light)">
+      <source 
+        srcset="https://typograssy.deno.dev/api?text=Effort%20never%20betrays%20you.&l0=000000&l1=5e0f0f&l2=8a2d3b&l3=4a0e23&l4=ffffff&bg=000000&speed=180" 
+        media="(prefers-color-scheme: dark)">
+      <img 
+        src="https://typograssy.deno.dev/api?text=Effort%20never%20betrays%20you.&l0=000000&l1=5e0f0f&l2=8a2d3b&l3=4a0e23&l4=ffffff&bg=000000&speed=180" 
+        alt="Motto">
+    </picture>
   </a>
 </p>
+
 
 ---
 
