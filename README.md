@@ -71,8 +71,33 @@ Beyond coding, I craft immersive **2D animations** and **video effects**, combin
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lvly-00&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&icon_color=5e0f0f&text_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvly-00&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&text_color=ffffff" height="160"/>
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Lvly-00&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=4a0e23&text_color=000000" 
+      media="(prefers-color-scheme: light)">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Lvly-00&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&icon_color=5e0f0f&text_color=ffffff" 
+      media="(prefers-color-scheme: dark)">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Lvly-00&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&icon_color=5e0f0f&text_color=ffffff" 
+      height="160" 
+      alt="GitHub Stats">
+  </picture>
+
+  <!-- Top Languages Card -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Lvly-00&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=000000" 
+      media="(prefers-color-scheme: light)">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Lvly-00&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&text_color=ffffff" 
+      media="(prefers-color-scheme: dark)">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvly-00&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8a2d3b&text_color=ffffff" 
+      height="160" 
+      alt="Top Languages">
+  </picture>
 </div>
 
 
