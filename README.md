@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3b0a0a,100:5e0f0f&height=200&section=header&text=༺%20Lovely_Pintes%20༻&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=In%20Darkness%2C%20I%20Create&descAlignY=60&descAlign=50" />
 </p>
 
-<!-- MOTTO -->
+<!-- MOTTO 
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <picture>
@@ -19,7 +19,7 @@
     </picture>
   </a>
 </p>
-
+-->
 
 ---
 
